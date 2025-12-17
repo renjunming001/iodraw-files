@@ -30,22 +30,22 @@
         <mxCell id="gNnYkarkDRlwzL4WoYVN-92" value="Lane 3" style="swimlane;startSize=25;labelBackgroundColor=none;" vertex="1" parent="gNnYkarkDRlwzL4WoYVN-89">
           <mxGeometry x="350" width="133" height="331" as="geometry" />
         </mxCell>
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-101" value="初始化分片上传" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-101" value="初始化分片上传" style="whiteSpace=wrap;html=1;flipV=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="1008" width="125" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-102" value="计算分段数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-102" value="计算分段数" style="whiteSpace=wrap;html=1;flipV=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="1088" width="125" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-103" value="计算需要的分片数量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="1036" width="125" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-107" value="并行上传" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="86" y="1199" width="125" height="39" as="geometry" />
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-107" value="并行上传" style="whiteSpace=wrap;html=1;flipV=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="86" y="1168" width="125" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-108" value="完成上传" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="86" y="1260" width="125" height="39" as="geometry" />
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-108" value="完成上传" style="whiteSpace=wrap;html=1;flipV=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="86" y="1247" width="125" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-109" value="关闭流" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-109" value="关闭流" style="whiteSpace=wrap;html=1;flipV=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="1327" width="125" height="39" as="geometry" />
         </mxCell>
       </root>
