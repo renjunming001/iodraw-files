@@ -34,10 +34,10 @@
           <mxGeometry x="-2" y="1037" width="125" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-102" value="计算分段数" style="whiteSpace=wrap;html=1;flipV=0;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="146" y="1037" width="125" height="39" as="geometry" />
+          <mxGeometry x="146" y="1037" width="86" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-107" value="并行上传" style="whiteSpace=wrap;html=1;flipV=0;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="282" y="1037" width="125" height="39" as="geometry" />
+          <mxGeometry x="263" y="1037" width="81" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-108" value="完成上传" style="whiteSpace=wrap;html=1;flipV=0;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="418" y="1037" width="125" height="39" as="geometry" />
