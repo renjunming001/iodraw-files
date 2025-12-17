@@ -30,7 +30,7 @@
         <mxCell id="gNnYkarkDRlwzL4WoYVN-92" value="Lane 3" style="swimlane;startSize=25;labelBackgroundColor=none;" vertex="1" parent="gNnYkarkDRlwzL4WoYVN-89">
           <mxGeometry x="350" width="133" height="331" as="geometry" />
         </mxCell>
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gNnYkarkDRlwzL4WoYVN-101" target="gNnYkarkDRlwzL4WoYVN-107">
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gNnYkarkDRlwzL4WoYVN-101" target="gNnYkarkDRlwzL4WoYVN-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-101" value="初始化分片上传" style="whiteSpace=wrap;html=1;flipV=0;flipH=0;" vertex="1" parent="1">
@@ -41,9 +41,6 @@
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-103" value="计算需要的分片数量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="1036" width="125" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gNnYkarkDRlwzL4WoYVN-107" target="gNnYkarkDRlwzL4WoYVN-109">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-107" value="并行上传" style="whiteSpace=wrap;html=1;flipV=0;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="86" y="1158" width="125" height="39" as="geometry" />
