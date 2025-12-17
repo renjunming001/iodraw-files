@@ -30,8 +30,11 @@
         <mxCell id="gNnYkarkDRlwzL4WoYVN-92" value="Lane 3" style="swimlane;startSize=25;labelBackgroundColor=none;" vertex="1" parent="gNnYkarkDRlwzL4WoYVN-89">
           <mxGeometry x="350" width="133" height="331" as="geometry" />
         </mxCell>
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gNnYkarkDRlwzL4WoYVN-101" target="gNnYkarkDRlwzL4WoYVN-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-101" value="初始化分片上传" style="whiteSpace=wrap;html=1;flipV=0;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="-2" y="1037" width="125" height="39" as="geometry" />
+          <mxGeometry x="-9" y="1037" width="125" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-102" value="计算分段数" style="whiteSpace=wrap;html=1;flipV=0;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="146" y="1037" width="125" height="39" as="geometry" />
@@ -43,7 +46,7 @@
           <mxGeometry x="418" y="1037" width="125" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-109" value="关闭流" style="whiteSpace=wrap;html=1;flipV=0;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="554" y="1037" width="125" height="39" as="geometry" />
+          <mxGeometry x="564" y="1037" width="125" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
