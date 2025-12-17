@@ -95,8 +95,8 @@
         <mxCell id="gNnYkarkDRlwzL4WoYVN-138" value="普通上传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-95" y="973" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-139" value="普通上传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-87" y="995" width="66" height="26" as="geometry" />
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-139" value="分片上传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-116" y="1149" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
