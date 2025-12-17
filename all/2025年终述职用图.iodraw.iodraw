@@ -19,7 +19,7 @@
           <mxGeometry x="44" y="42" width="125" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-98" value="创建分片上传任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="gNnYkarkDRlwzL4WoYVN-90">
-          <mxGeometry x="44" y="173" width="125" height="39" as="geometry" />
+          <mxGeometry x="44" y="122" width="125" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-91" value="Lane 2" style="swimlane;startSize=25;labelBackgroundColor=none;" vertex="1" parent="gNnYkarkDRlwzL4WoYVN-89">
           <mxGeometry x="242" width="94" height="331" as="geometry" />
