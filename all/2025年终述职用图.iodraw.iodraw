@@ -36,11 +36,17 @@
         <mxCell id="gNnYkarkDRlwzL4WoYVN-101" value="初始化分片上传" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="1008" width="125" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gNnYkarkDRlwzL4WoYVN-102" target="gNnYkarkDRlwzL4WoYVN-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-102" value="计算分段数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="1088" width="125" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-103" value="计算需要的分片数量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="246.5" y="1032" width="125" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-105" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="88.5" y="1196.5" width="120" height="36.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
