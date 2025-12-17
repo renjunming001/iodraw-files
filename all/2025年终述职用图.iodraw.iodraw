@@ -36,7 +36,7 @@
         <mxCell id="gNnYkarkDRlwzL4WoYVN-101" value="初始化分片上传" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="1008" width="125" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-102" value="获取uploadId" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-102" value="计算" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="1088" width="125" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-103" value="计算需要的分片数量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
