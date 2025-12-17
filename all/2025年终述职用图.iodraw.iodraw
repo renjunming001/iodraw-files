@@ -63,13 +63,8 @@
         <mxCell id="gNnYkarkDRlwzL4WoYVN-121" value="初始化分片上传" style="whiteSpace=wrap;html=1;flipV=0;flipH=0;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-17.5" y="1048" width="125" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gNnYkarkDRlwzL4WoYVN-123">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="269.5" y="1067.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-123" value="计算分段数" style="whiteSpace=wrap;html=1;flipV=0;flipH=0;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="125.5" y="1048" width="125" height="39" as="geometry" />
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-123" value="开始上传" style="whiteSpace=wrap;html=1;flipV=0;flipH=0;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="198" y="1048" width="125" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="gNnYkarkDRlwzL4WoYVN-127">
           <mxGeometry relative="1" as="geometry">
