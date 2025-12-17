@@ -92,8 +92,11 @@
         <mxCell id="gNnYkarkDRlwzL4WoYVN-136" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-46" y="1149" width="761" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-138" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-82" y="973" width="40" height="26" as="geometry" />
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-138" value="普通上传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="973" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-139" value="普通上传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-87" y="995" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
