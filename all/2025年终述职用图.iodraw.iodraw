@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Uw_nYphM76G4DGoeMzHC">
-    <mxGraphModel dx="1166" dy="99" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1598" dy="380" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,12 +85,6 @@
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-131" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.3157894736842105;arrowSize=0.3111111111111111;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="250" y="1092" width="23" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-132" value="普通上传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-183" y="1054.5" width="66" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-133" value="普通上传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-183" y="1123" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
