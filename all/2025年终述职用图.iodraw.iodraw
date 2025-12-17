@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gNnYkarkDRlwzL4WoYVN-89" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=17;horizontal=0;horizontalStack=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="56" y="678" width="483" height="331" as="geometry" />
+          <mxGeometry x="120" y="573" width="483" height="331" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-90" value="初始化分片上传" style="swimlane;startSize=25;labelBackgroundColor=none;" vertex="1" parent="gNnYkarkDRlwzL4WoYVN-89">
           <mxGeometry x="17" width="166" height="331" as="geometry" />
@@ -25,7 +25,7 @@
           <mxGeometry x="183" width="167" height="331" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-100" value="计算需要的分片数量" style="whiteSpace=wrap;html=1;" vertex="1" parent="gNnYkarkDRlwzL4WoYVN-91">
-          <mxGeometry x="23" y="107" width="125" height="39" as="geometry" />
+          <mxGeometry x="15" y="107" width="125" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-92" value="Lane 3" style="swimlane;startSize=25;labelBackgroundColor=none;" vertex="1" parent="gNnYkarkDRlwzL4WoYVN-89">
           <mxGeometry x="350" width="133" height="331" as="geometry" />
