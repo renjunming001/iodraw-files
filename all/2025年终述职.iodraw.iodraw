@@ -37,7 +37,7 @@
           <mxGeometry x="324" y="550" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-36" value="Vertical Tree Layout" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="209" y="684" width="280" height="190" as="geometry" />
+          <mxGeometry x="197" y="686" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-37" value="Root" style="whiteSpace=wrap;html=1;" vertex="1" parent="gNnYkarkDRlwzL4WoYVN-36">
           <mxGeometry x="90" y="40" width="100" height="40" as="geometry" />
