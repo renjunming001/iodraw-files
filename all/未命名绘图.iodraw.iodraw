@@ -4,17 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gNnYkarkDRlwzL4WoYVN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gNnYkarkDRlwzL4WoYVN-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="234" y="255" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="354" y="181" />
-              <mxPoint x="234" y="181" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gNnYkarkDRlwzL4WoYVN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="96" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNnYkarkDRlwzL4WoYVN-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="196" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
