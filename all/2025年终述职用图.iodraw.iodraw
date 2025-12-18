@@ -284,7 +284,7 @@
             <mxRectangle width="147" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-77" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-39">
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-77" value="查零售分公司配置" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-39">
           <mxGeometry x="810" width="142" height="74" as="geometry">
             <mxRectangle width="142" height="74" as="alternateBounds" />
           </mxGeometry>
