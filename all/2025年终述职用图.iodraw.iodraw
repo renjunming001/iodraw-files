@@ -454,69 +454,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-142" value="开始" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="128" y="2957" width="62" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-143" value="获取新参数中的配额比例值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="33" y="3056" width="252" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-144" value="新参数类型是否为&#39;阶梯用量&#39;?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="33" y="3154" width="252" height="252" as="geometry" />
-        </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-145" value="返回处理后的配额比例值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="65" y="3902" width="206" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-146" value="旧值类型是否为&#39;固定用量&#39;?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="114" y="3479" width="252" height="252" as="geometry" />
-        </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-147" value="设置配额比例值 = 0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="69" y="3804" width="198" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-148" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="wtAJpbNrFdf7JW77LKUg-142" target="wtAJpbNrFdf7JW77LKUg-143">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-149" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wtAJpbNrFdf7JW77LKUg-143" target="wtAJpbNrFdf7JW77LKUg-144">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-150" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=1;entryX=0.15;entryY=0.01;rounded=0;" edge="1" parent="1" source="wtAJpbNrFdf7JW77LKUg-144" target="wtAJpbNrFdf7JW77LKUg-145">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="20" y="3443" />
-              <mxPoint x="20" y="3877" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-151" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wtAJpbNrFdf7JW77LKUg-144" target="wtAJpbNrFdf7JW77LKUg-146">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="240" y="3443" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-152" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wtAJpbNrFdf7JW77LKUg-146" target="wtAJpbNrFdf7JW77LKUg-147">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="168" y="3768" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-153" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="wtAJpbNrFdf7JW77LKUg-147" target="wtAJpbNrFdf7JW77LKUg-145">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-154" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.84;entryY=0.01;rounded=0;" edge="1" parent="1" source="wtAJpbNrFdf7JW77LKUg-146" target="wtAJpbNrFdf7JW77LKUg-145">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="312" y="3768" />
-              <mxPoint x="312" y="3877" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
