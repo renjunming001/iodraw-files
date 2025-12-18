@@ -124,7 +124,7 @@
             <mxRectangle width="167" height="69" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-23" value="不同业态下的额外项逻辑对比" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-23" value="不同业态下的安装定额、额外项带出逻辑对比" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="346" y="1429" width="668" height="453.25" as="geometry" />
         </mxCell>
         <mxCell id="wtAJpbNrFdf7JW77LKUg-24" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-23">
@@ -135,7 +135,7 @@
             <mxRectangle width="117" height="69" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-24">
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-26" value="安装定额" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-24">
           <mxGeometry x="117" width="217" height="69" as="geometry">
             <mxRectangle width="217" height="69" as="alternateBounds" />
           </mxGeometry>
