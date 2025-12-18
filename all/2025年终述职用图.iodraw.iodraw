@@ -385,8 +385,8 @@
             <mxRectangle width="160" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-87" value="123" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1326" y="1312" width="120" height="60" as="geometry" />
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-87" value="123" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=default;gradientColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1329" y="1255" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
