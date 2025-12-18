@@ -135,7 +135,7 @@
             <mxRectangle width="117" height="67" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-26" value="安装定额" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;strokeWidth=1;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-24">
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-26" value="安装定额" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;strokeWidth=1;perimeterSpacing=2;opacity=0;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-24">
           <mxGeometry x="117" width="179" height="67" as="geometry">
             <mxRectangle width="179" height="67" as="alternateBounds" />
           </mxGeometry>
