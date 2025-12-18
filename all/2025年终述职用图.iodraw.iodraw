@@ -135,7 +135,7 @@
             <mxRectangle width="117" height="67" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-26" value="安装定额" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-24">
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-26" value="安装定额" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-24">
           <mxGeometry x="117" width="179" height="67" as="geometry">
             <mxRectangle width="179" height="67" as="alternateBounds" />
           </mxGeometry>
@@ -259,7 +259,7 @@
         <mxCell id="wtAJpbNrFdf7JW77LKUg-39" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-23">
           <mxGeometry y="235" width="1256" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-40" value="纯零售/搭售" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-39">
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-40" value="纯零售/搭售" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d6b656;overflow=hidden;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-39">
           <mxGeometry width="117" height="74" as="geometry">
             <mxRectangle width="117" height="74" as="alternateBounds" />
           </mxGeometry>
@@ -302,7 +302,7 @@
         <mxCell id="wtAJpbNrFdf7JW77LKUg-57" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-23">
           <mxGeometry y="309" width="1256" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-58" value="翻新无套餐" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-57">
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-58" value="翻新无套餐" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-57">
           <mxGeometry width="117" height="70" as="geometry">
             <mxRectangle width="117" height="70" as="alternateBounds" />
           </mxGeometry>
@@ -345,7 +345,7 @@
         <mxCell id="wtAJpbNrFdf7JW77LKUg-32" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-23">
           <mxGeometry y="379" width="1256" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-33" value="翻新多套餐" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-32">
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-33" value="翻新多套餐" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-32">
           <mxGeometry width="117" height="70" as="geometry">
             <mxRectangle width="117" height="70" as="alternateBounds" />
           </mxGeometry>
