@@ -183,7 +183,7 @@
             <mxRectangle width="191" height="68" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-46" value="查整装配置" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-43">
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-46" value="查整装分公司配置" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-43">
           <mxGeometry x="308" width="187" height="68" as="geometry">
             <mxRectangle width="187" height="68" as="alternateBounds" />
           </mxGeometry>
