@@ -140,7 +140,7 @@
             <mxRectangle width="179" height="67" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-27" value="关联项" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;gradientColor=default;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-24">
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-27" value="关联项" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;gradientColor=none;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-24">
           <mxGeometry x="296" width="160" height="67" as="geometry">
             <mxRectangle width="160" height="67" as="alternateBounds" />
           </mxGeometry>
