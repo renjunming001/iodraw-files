@@ -241,7 +241,7 @@
             <mxRectangle width="167" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-76" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-28">
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-76" value="查团装配置" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-28">
           <mxGeometry x="785" width="167" height="70" as="geometry">
             <mxRectangle width="167" height="70" as="alternateBounds" />
           </mxGeometry>
