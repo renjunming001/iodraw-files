@@ -116,8 +116,8 @@
         <mxCell id="wtAJpbNrFdf7JW77LKUg-7" value="项目经理报价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="1478" width="91" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="164" y="1484" width="225" height="233" as="geometry" />
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="77" y="1331" width="232" height="219" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
