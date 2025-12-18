@@ -101,10 +101,10 @@
         <mxCell id="gNnYkarkDRlwzL4WoYVN-139" value="分片上传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-116" y="1149" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-2" value="安装定额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-2" value="安装定额" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="90" y="1345" width="91" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-3" value="额外项" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-3" value="额外项" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="206" y="1343" width="91" height="51" as="geometry" />
         </mxCell>
         <mxCell id="wtAJpbNrFdf7JW77LKUg-4" value="内控任务列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
