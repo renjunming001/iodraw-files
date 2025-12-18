@@ -130,7 +130,7 @@
         <mxCell id="wtAJpbNrFdf7JW77LKUg-24" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-23">
           <mxGeometry y="30" width="1256" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=default;shadow=1;fillStyle=zigzag-line;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-24">
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;shadow=1;fillStyle=zigzag-line;fontColor=#333333;" vertex="1" parent="wtAJpbNrFdf7JW77LKUg-24">
           <mxGeometry width="117" height="67" as="geometry">
             <mxRectangle width="117" height="67" as="alternateBounds" />
           </mxGeometry>
