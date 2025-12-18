@@ -386,10 +386,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wtAJpbNrFdf7JW77LKUg-87" value="123" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#b85450;fillColor=#f8cecc;opacity=50;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1329" y="1255" width="120" height="60" as="geometry" />
+          <mxGeometry x="1250" y="1191" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wtAJpbNrFdf7JW77LKUg-89" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;opacity=50;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="1443" width="120" height="60" as="geometry" />
+        <mxCell id="wtAJpbNrFdf7JW77LKUg-89" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;opacity=50;strokeColor=#b85450;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1426" y="1205" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
