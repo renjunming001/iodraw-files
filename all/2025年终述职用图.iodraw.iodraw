@@ -483,8 +483,10 @@
         <mxCell id="61J0N3eV8SlGzXdF1rfY-17" value="123" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#b85450;fillColor=#f8cecc;opacity=50;glass=0;shadow=0;container=1;" vertex="1" parent="1">
           <mxGeometry x="1358" y="1275" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="61J0N3eV8SlGzXdF1rfY-27" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1684" y="1136" width="200" height="200" as="geometry" />
+        <mxCell id="61J0N3eV8SlGzXdF1rfY-27" value="泳道1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1591" y="1080" width="513" height="200" as="geometry">
+            <mxRectangle x="1591" y="1080" width="32" height="138" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
