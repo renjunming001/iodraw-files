@@ -489,7 +489,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="61J0N3eV8SlGzXdF1rfY-29" value="泳道2" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;swimlaneFillColor=#FFCCFF;gradientColor=none;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1602" y="1155" width="513" height="120" as="geometry">
+          <mxGeometry x="1924" y="837" width="513" height="120" as="geometry">
             <mxRectangle x="1591" y="1080" width="32" height="138" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
