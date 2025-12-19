@@ -3,7 +3,7 @@
     <mxGraphModel dx="2495" dy="167" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" style="locked=1;" parent="0" />
+        <mxCell id="1" style="" parent="0" />
         <mxCell id="wtAJpbNrFdf7JW77LKUg-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-64" y="1288" width="232" height="219" as="geometry" />
         </mxCell>
@@ -489,7 +489,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="61J0N3eV8SlGzXdF1rfY-30" value="泳道2" style="" parent="0" />
-        <mxCell id="61J0N3eV8SlGzXdF1rfY-33" value="泳道2" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;swimlaneFillColor=#FFCCFF;gradientColor=none;startSize=23;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="61J0N3eV8SlGzXdF1rfY-30">
+        <mxCell id="61J0N3eV8SlGzXdF1rfY-33" value="泳道2" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;swimlaneFillColor=#FFCCFF;gradientColor=none;startSize=23;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="61J0N3eV8SlGzXdF1rfY-30">
           <mxGeometry x="1602" y="1146" width="513" height="120" as="geometry">
             <mxRectangle x="1591" y="1080" width="32" height="138" as="alternateBounds" />
           </mxGeometry>
