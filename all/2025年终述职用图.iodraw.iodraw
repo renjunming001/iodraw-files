@@ -489,12 +489,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="61J0N3eV8SlGzXdF1rfY-30" value="泳道2" style="" parent="0" />
-        <mxCell id="61J0N3eV8SlGzXdF1rfY-33" value="泳道2" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;swimlaneFillColor=#FFCCFF;gradientColor=none;startSize=23;" vertex="1" parent="61J0N3eV8SlGzXdF1rfY-30">
+        <mxCell id="61J0N3eV8SlGzXdF1rfY-33" value="泳道2" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;swimlaneFillColor=#FFCCFF;gradientColor=none;startSize=23;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="61J0N3eV8SlGzXdF1rfY-30">
           <mxGeometry x="1602" y="1146" width="513" height="120" as="geometry">
             <mxRectangle x="1591" y="1080" width="32" height="138" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="61J0N3eV8SlGzXdF1rfY-34" value="333" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="61J0N3eV8SlGzXdF1rfY-33">
+        <mxCell id="61J0N3eV8SlGzXdF1rfY-34" value="333" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="61J0N3eV8SlGzXdF1rfY-33">
           <mxGeometry x="69" y="29" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
