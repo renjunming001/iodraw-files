@@ -488,8 +488,8 @@
             <mxRectangle x="1591" y="1080" width="32" height="138" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="61J0N3eV8SlGzXdF1rfY-28" value="泳道1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;swimlaneFillColor=#FFCCFF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1602" y="1245" width="513" height="200" as="geometry">
+        <mxCell id="61J0N3eV8SlGzXdF1rfY-29" value="泳道1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;swimlaneFillColor=#FFCCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1602" y="1151" width="513" height="120" as="geometry">
             <mxRectangle x="1591" y="1080" width="32" height="138" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
